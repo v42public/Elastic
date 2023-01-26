@@ -14,6 +14,10 @@ For the Hyper-V VM I have allocated:
 
 I do have multiple Hyper-V VM's configured, but I'm only running one of them at a time.
 
+## Preparing the Hyper-V network
+
+*To be documented ...*
+
 ## Configuring a new Hyper-V VM
 
 Create a new Hyper-V VM with the following parameters:
