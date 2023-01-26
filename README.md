@@ -1,8 +1,8 @@
 # My Elastic Stack Playground
 
 To get some hands-on experience with [Elastic Stack](https://www.elastic.co/elastic-stack/), 
-I installed the software in a Hyper-V VM on my Microsoft Windows 10 Pro system. Be aware
-that this requires a system with enough diskspace, memory and CPU power. My system has:
+I installed the software in a Hyper-V VM running Debian Linux, on my Microsoft Windows 10 Pro system. 
+Be aware that this requires a system with enough diskspace, memory and CPU power. My system has:
 - An Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz
 - A total of 32 GB of memory
 - A 1TB Samsung SSD 970 Pro
@@ -33,7 +33,7 @@ Adjust the following settings:
 
 Of these last 5 adjustments only the security and processor settings are required, the rest are my personal preferences.
 
-## Installing Debian 11
+## Installing Debian Linux
 
 *To be continued ...*
 
