@@ -54,4 +54,6 @@ While installing Debian I used the defaults except when I ...
 
 *To be continued ...*
 
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html
+- 
 
