@@ -56,5 +56,7 @@ While installing Debian I used the defaults except when I ...
 
 - `apt install sudo pgp`
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html
-- 
+- https://www.elastic.co/guide/en/kibana/current/deb.html
+- https://www.elastic.co/guide/en/logstash/current/installing-logstash.html
+- ...
 
