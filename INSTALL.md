@@ -45,7 +45,7 @@ Of these last 5 adjustments only the security and processor settings are require
 
 ## Installing Debian Linux
 
-While installing Debian I used the defaults except when I:
+While installing Debian I used the defaults except when I ...
 - ... selected the correct location and locale settings,
 - ... used a fully qualified hostname that matches the SSL Wildcard Certificate I already own,
 - ... obviously used my own passwords and username for the user accounts,
